@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"chinesecheckers"},{"l":"chinesecheckers.ai"},{"l":"chinesecheckers.ui"},{"l":"chinesecheckers.util"}];updateSearchResults();
