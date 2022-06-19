@@ -1,3 +1,3 @@
 # ChineseCheckers
 
-Chinese Checkers Java implementation with Minimax based AI
+Chinese Checkers Java implementation with Minimax based AI.
